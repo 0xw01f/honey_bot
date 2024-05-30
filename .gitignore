@@ -1,0 +1,29 @@
+# Python-specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment-specific files
+.env
+
+# Dependency directories
+venv/
+env/
+env.bak/
+env1/
+env2/
+venv1/
+venv2/
+
+# Build files
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Database files
+*.db
+
+# Jupyter Notebook-specific files
+.ipynb_checkpoints/
